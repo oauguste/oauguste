@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [auguste.ai](auguste.ai)
 
+- 💬 Ask me about **Javascript**
+
 - ⚡ Fun fact **Fluent in french**
 
 <h3 align="left">Connect with me:</h3>
