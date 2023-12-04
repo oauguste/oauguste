@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oauguste&label=Profile%20views&color=b800a8&style=flat-square" alt="oauguste" /> </p>
 
-- 🌱 I’m currently learning **Express, NodeJs**
+- 🌱 I’m currently building a **NextJS14** applicattion.
 
 - 👨‍💻 All of my projects are available at [auguste.ai](auguste.ai)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Typescript**
 
 - ⚡ Fun fact **Fluent in french**
 
