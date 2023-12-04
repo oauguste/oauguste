@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently building a **NextJS14** applicattion.
 
-- 👨‍💻 All of my projects are available at [auguste.ai]((https://auguste.ai/))
+- 👨‍💻 All of my projects are available at ([auguste.ai](https://auguste.ai/))
 
 - 💬 Ask me about **Typescript**
 
